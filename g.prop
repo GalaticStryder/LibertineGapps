@@ -3,6 +3,6 @@ ro.addon.type=gapps
 ro.addon.arch=arm64
 ro.addon.sdk=23
 ro.addon.platform=6.0
-ro.addon.open_type=nano
-ro.addon.open_version=20170418
+ro.addon.open_type=unofficial
+ro.addon.open_version=20170419
 # end addon properties
