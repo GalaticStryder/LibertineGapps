@@ -17,7 +17,7 @@
 #    This script of the Open GApps Installer is contains work from the PA GApps of @TKruzze and @osm0sis,
 #    PA GApps source is used with permission, under the license that it may be re-used to continue GApps packages.
 #
-# Last Updated: 20170418
+# Last Updated: 20170419
 # _____________________________________________________________________________________________________________________
 #                                             Define Current Package Variables
 # List of GApps packages that can be installed with this installer
@@ -80,7 +80,6 @@ zhuyin
 
 stock_gapps_list="
 cameragoogle
-keyboardgoogle
 messenger
 vrservice
 wallpapers
@@ -130,6 +129,7 @@ nano_gapps_list="
 search
 speech
 hotword
+keyboardgoogle
 ";
 
 pico_gapps_list="

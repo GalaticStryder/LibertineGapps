@@ -9,3 +9,4 @@ GApps/calsync-all/nodpi/
 GApps/googletts-arm/nodpi/
 GApps/search-arm64/nodpi/
 GApps/hotword-all/nodpi/
+GApps/keyboardgoogle-arm64/nodpi/

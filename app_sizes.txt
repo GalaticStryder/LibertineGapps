@@ -10,6 +10,7 @@ calsync-all	nodpi	1808
 googletts-arm	nodpi	21876
 hotword-all	odex	33
 hotword-all	nodpi	564
+keyboardgoogle-arm64	nodpi	38864
 search-arm64	nodpi	64868
 speech-common	common	39240
 swypelibs-lib-arm64	common	2476
