@@ -55,20 +55,12 @@ E_ARCH=64; # Wrong Architecture Detected
 #_________________________________________________________________________________________________________________
 #                                             GApps List (Applications user can Select/Deselect)
 core_gapps_list="
-defaultetc
 defaultframework
-googlebackuptransport
 googlecontactssync
-googlefeedback
-googleonetimeinitializer
-googlepartnersetup
 gmscore
 gsfcore
 gsflogin
 vending
-setupwizarddefault
-setupwizardtablet
-configupdater
 ";
 
 super_gapps_list="
@@ -135,8 +127,6 @@ googlenow
 ";
 
 nano_gapps_list="
-facedetect
-faceunlock
 search
 speech
 hotword
@@ -144,10 +134,7 @@ hotword
 
 pico_gapps_list="
 calsync
-dialerframework
 googletts
-
-packageinstallergoogle
 ";
 
 tvcore_gapps_list="
