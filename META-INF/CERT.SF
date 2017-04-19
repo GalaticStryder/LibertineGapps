@@ -1,0 +1,130 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest: MF6iZkE5Tw/QGAVgWXuw7DmFqSSmZ043+/NmVzc5XFQ=
+Created-By: 1.0 (Android SignApk)
+
+Name: Core/googleonetimeinitializer-all.tar.lz
+SHA-256-Digest: Y1VQjXFR3BQi1U7VWRXp66PrwRvlprOvlgbKT9AIh+A=
+
+Name: META-INF/com/google/android/updater-script
+SHA-256-Digest: fDPhIzR2DnApGRRzHOPrhcZkG1MPu3dVmxqBT5WUfX0=
+
+Name: tar-arm
+SHA-256-Digest: RWjrt11DcKLLUybpzfq3KKFbIfDGrayGbw3B+D/afbM=
+
+Name: GApps/faceunlock-lib-arm.tar.lz
+SHA-256-Digest: FN+pUHgMv2Fq7HPcyZAG1PdxN044EE3xsOvVx6YzoNk=
+
+Name: busybox-arm
+SHA-256-Digest: m1h516kdkN/kUgFOo1l+RjP8rArtxOxsniv8f5rmNak=
+
+Name: GApps/hotword-all.tar.lz
+SHA-256-Digest: AzH7UYIh0Dku5YfK4UUf+GjRx/lDWqWdXMGrZqml8ik=
+
+Name: g.prop
+SHA-256-Digest: dq27E7zpWDjC3nljJfAjZySnhc2SHpKZNI/LUMTn+IE=
+
+Name: GApps/packageinstallergoogle-all.tar.lz
+SHA-256-Digest: RWfN2qqSG065a46ejbrbJnW3Ygs2/j12C5FNdp0inps=
+
+Name: Core/gmscore-arm64.tar.lz
+SHA-256-Digest: KTntGDUQS3XNar9UpdwM9R5NB1NlJcfNVtjfnxldQl8=
+
+Name: GApps/faceunlock-common.tar.lz
+SHA-256-Digest: fs3Y4IysFytPacIvp+5KppBGwPRSBk5Ae34yEQ9rMJA=
+
+Name: Optional/swypelibs-lib-arm64.tar.lz
+SHA-256-Digest: AFxyEZ85dGeiePr1AFJYCMEdF94I9Dq+vdoqawAxsnk=
+
+Name: zip-arm
+SHA-256-Digest: iWZRBp0pTZ9DwVqdL/dW79nUA2J8xcZ/e53t8e5Y06I=
+
+Name: GApps/calsync-all.tar.lz
+SHA-256-Digest: rE1PLCeaTso3y+zmM82ut2eLySb7PZ9EmZ9pw7+NNsE=
+
+Name: installer.sh
+SHA-256-Digest: PUxwZHVv6I/AwVx1hhjsSCoAleDmB0l8uf6dHnN8pRk=
+
+Name: unzip-arm
+SHA-256-Digest: lMTtIjDQ+/JLQKYCYMHxOnoZWzlPkBHCSgeaudszCvg=
+
+Name: GApps/search-arm64.tar.lz
+SHA-256-Digest: yUpvGK7BBtu1x52C/RK2GTVt3KWNZSk9kCPZ0h69G/A=
+
+Name: LICENSE
+SHA-256-Digest: MuwJxvq0xJ5yaDz5iJ4Sdv30Xq/pEKR16OAaUClb/JU=
+
+Name: Core/configupdater-all.tar.lz
+SHA-256-Digest: HV9uqrwALvtHKUzAYDuCgBOFrilNR41BYBbVgPTUndI=
+
+Name: Core/gsfcore-all.tar.lz
+SHA-256-Digest: punGogC/U8G2FQNJI1ACtvUoLmoRnOqG1eLZgH650YE=
+
+Name: GApps/facedetect-lib-arm.tar.lz
+SHA-256-Digest: iBOYfTnW8QrUKEtPYEbL/L+RDZuo9jbPBWrS+Mc/70E=
+
+Name: Core/defaultetc-common.tar.lz
+SHA-256-Digest: bycoGmcNfKacGj7wn6HPJx1QPLUnKB2CSacO5yZ1G7Q=
+
+Name: bkup_tail.sh
+SHA-256-Digest: SZ3vP0F1D/J46IueIMKi0eAqAUNAwBO7EmTSf7QUcK8=
+
+Name: gapps-remove.txt
+SHA-256-Digest: OO9TwGVq6qt3VECAMq4Oj1SLBijJNXanPnToZ59WygU=
+
+Name: META-INF/com/android/otacert
+SHA-256-Digest: hMv0n9e7ge5SfSxYqvy47xsFuuDAsNtoqLq60S2/LUU=
+
+Name: META-INF/com/google/android/update-binary
+SHA-256-Digest: PQS5mO72/R/rtosb0kL2XWjrwFwwePOcckqdMdz9SOg=
+
+Name: app_densities.txt
+SHA-256-Digest: YITTOdog1ElMGcpeN+N9pXnEKjdE685bRugf9QmORIc=
+
+Name: Core/defaultframework-common.tar.lz
+SHA-256-Digest: S39P1xTHDsiR+To+kNjSyrobgmOksAi5y/Z/T9svCqg=
+
+Name: GApps/faceunlock-all.tar.lz
+SHA-256-Digest: 6KdZbMuINyerRjCf72I1Jbz2r2Mq83xeQdMHdI/YNmU=
+
+Name: GApps/speech-common.tar.lz
+SHA-256-Digest: AIfoHlSMMut9RfV1AlC++NYdKmgUSc58sQXJHNbsCKo=
+
+Name: Core/googlecontactssync-all.tar
+SHA-256-Digest: LqP89cCfsowm1eNi/aBohvd9aRjZ0OmoDukT3WW85ok=
+
+Name: GApps/faceunlock-lib-arm64.tar.lz
+SHA-256-Digest: UwykDCs2MS+ONFcJiL+jE3yhxFeKFkmPiR/L9IBXuNM=
+
+Name: GApps/facedetect-lib-arm64.tar.lz
+SHA-256-Digest: 9Y9J2g/9jfN4IJwBkMIUMmvVaj7DkK7YLYYctaV8MRQ=
+
+Name: Core/gsflogin-all.tar.lz
+SHA-256-Digest: 8VoY4BqiS2dw56aTN/b6dW6FFgTt/Dq0eCsvAVDnrhI=
+
+Name: app_sizes.txt
+SHA-256-Digest: EQA0+ioZOmYLuUOLlckzj6ZRpUesqj/uEerMU/Rtl2Y=
+
+Name: Core/googlebackuptransport-all.tar.lz
+SHA-256-Digest: w9mG475l77uLkYJuOgQSAwMJFJjokjjxCSJgwhH+jAE=
+
+Name: GApps/dialerframework-common.tar.lz
+SHA-256-Digest: Y5RKCqYVF8QF23mXq2eakZfVjkX/E8j2f+xnjGVGL/g=
+
+Name: Core/googlepartnersetup-all.tar.lz
+SHA-256-Digest: lMFhl5xbckHB5E4DuhXRfQBuQjQ96HTFgQ+X4K8qd6Q=
+
+Name: Core/googlefeedback-all.tar.lz
+SHA-256-Digest: vHAbPnpefG3CYyfLWKEGkSJpPyLEl+yzEr+BINrK33w=
+
+Name: Core/setupwizarddefault-all.tar.lz
+SHA-256-Digest: 8V6m2HrMrq8OkJN1OfOASBjtqTztVALfLajMpUuT6lY=
+
+Name: Core/setupwizardtablet-all.tar.lz
+SHA-256-Digest: 5NJPZZTwTigI209aqK/FoLP+Z5+5SBdp5FvCCXzhMz0=
+
+Name: Core/vending-all.tar.lz
+SHA-256-Digest: oLifiiOsOd4XrdfJT1qS5drjKnA5sISRUTqPLAE4Xvw=
+
+Name: GApps/googletts-arm.tar.lz
+SHA-256-Digest: wyPwP8IgfRu+URWznEwFt6B9vFlzs7t6qPxIyCVAw0U=
+
